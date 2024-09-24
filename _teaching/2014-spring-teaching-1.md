@@ -10,7 +10,7 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-[ST04](https://shuailiu1990.github.io/files/第04讲万有引力定律及其应用.pdf)
+[ST04](https://shuailiu1990.github.io/files/第04讲万有引力定律及其应用)
 ======
 
 Heading 2
