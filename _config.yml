@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Shuai Liu"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              : " " # "Short biography for the left-hand sidebar"
   location         : "Room 233, Experimental Building"
   employer         : "Zhaoqing University"
   uri              : # URL
