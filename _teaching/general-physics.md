@@ -8,4 +8,4 @@ date: 2023-01-01
 location: "Zhaoqing, China"
 ---
 
-Homework:
+General Physics II Homework: exercises 4.9, 4.12, 4.13, 4.14 in textbook.
