@@ -8,6 +8,7 @@ date:  2023-01-01
 location: "Zhaoqing, China"
 ---
 
-[ST04](https://shuailiu1990.github.io/files/第04讲万有引力定律及其应用.pdf)
+Final score = classroom performance + test
 
-[ST04](https://shuailiu1990.github.io/files/第04讲万有引力定律及其应用.pdf)
+[专题04 万有引力定律及其应用](https://shuailiu1990.github.io/files/第04讲万有引力定律及其应用.pdf)
+
