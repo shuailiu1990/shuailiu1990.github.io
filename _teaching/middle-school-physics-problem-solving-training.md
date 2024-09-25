@@ -12,4 +12,4 @@ Homework: 收集广东省近五年物理高考题，并且分为不同的专题(
 
 Final score = classroom performance + homework + test
 
-[专题04 万有引力定律及其应用](https://shuailiu1990.github.io/files/第04讲万有引力定律及其应用.pdf)
+[专题04 万有引力定律及其应用](https://shuailiu1990.github.io/files/第04讲-万有引力定律及其应用.pdf)
