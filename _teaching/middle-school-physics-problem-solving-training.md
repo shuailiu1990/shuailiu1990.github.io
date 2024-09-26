@@ -8,6 +8,8 @@ date:  2023-01-01
 location: "Zhaoqing, China"
 ---
 
+This course is designed for undergraduate students who are specializing in physics.
+
 Homework: 收集广东省近五年物理高考题，并且分为不同的专题(word)
 
 Final score = classroom performance + homework + test
