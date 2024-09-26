@@ -19,5 +19,3 @@ Final score = classroom performance + homework + test
 [专题04 万有引力定律及其应用](https://shuailiu1990.github.io/files/第04讲万有引力定律及其应用.pdf)
 
 ## [普通高中物理课程标准2017年版2020年修订](https://shuailiu1990.github.io/files/普通高中物理课程标准2017年版2020年修订.pdf)
-
-====
