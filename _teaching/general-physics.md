@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Zhaoqing, China"
 ---
 
-General Physics I
+This course is designed for undergraduate students who are not specializing in physics. There are two parts, e.g., General Physics I and general Physics II.
 
 General Physics II
 
