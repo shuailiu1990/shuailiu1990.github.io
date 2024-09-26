@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+## Education
 
 * Ph.D in Theoretical Physics, Sun Yat-sen University, 2017-2020
 * M.S. in Theoretical Physics, Lanzhou University, 2013-2016
 * B.S. in Physics, Shandong Normal University, 2009-2013
 
-# Work experience
+## Work experience
 
 * 2023-present: Lecturer
   * Zhaoqing University
