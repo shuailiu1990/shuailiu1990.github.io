@@ -9,7 +9,6 @@ location: "Zhaoqing, China"
 ---
 
 General Physics II
-====
 
 Homework:
 
