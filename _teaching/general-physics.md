@@ -14,6 +14,6 @@ This course is designed for undergraduate students who are not studying physics.
 
 ### Homework
 
-Chapter 4: example 4.5 (P84), exercises (P88-P89) 4.9, 4.12, 4.13, 4.14 and 4.16 in the textbook. 在国庆假期后第一次课上交本次作业。
+Chapter 4: example 4.5 (P84), exercises (P88-P89) 4.9, 4.12, 4.13, 4.14 and 4.16 in the textbook. 在国庆假期后第一次课上交本章作业。
 
 Chapter 5: exercises (P116-P118) 5.11, 5.12, 5.13, 5.14 and 5.15 in the textbook.
