@@ -1,7 +1,7 @@
 ---
 title: "Merging hierarchical triple black hole systems with intermediate-mass black holes in population III star clusters"
 collection: publications
-category: #manuscripts
+category: manuscripts
 permalink: /publication/merging-hierarchical-triple-black-hole-systems-with-intermediate-mass-black-holes-in-population-III-star-clusters
 excerpt: ' '
 date: 2024-08-17
