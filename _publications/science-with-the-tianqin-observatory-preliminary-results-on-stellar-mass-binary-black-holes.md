@@ -10,4 +10,4 @@ paperurl: 'https://arxiv.org/pdf/2004.14242'
 citation: 'Shuai Liu <i>et al.</i> &quot;Science with the TianQin observatory: Preliminary results on stellar-mass binary black holes&quot; <i>Phys.Rev.D</i> 101 (2020) 10, 103027'
 ---
 
-In this work, we firstly estimate the detection capacity of TianQin, as well as the network of TianQin+LISA, for stellar-mass binary black holes, such as, detection number, precision of source parameter measureant.
+In this work, we first estimate the detection capabilities of TianQin, as well as the TianQin+LISA network, for stellar-mass binary black holes, including detection rates and the precision of source parameter measurements.
