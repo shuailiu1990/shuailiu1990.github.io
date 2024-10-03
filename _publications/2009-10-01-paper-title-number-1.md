@@ -9,7 +9,7 @@ venue: 'August 17'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2311.05393'
 #citation: 'Shuai Liu <i>et al</i>. &quot; &quot; <i>Mon.Not.Roy.Astron.Soc.</i>533 (2024) 2, 2262-2281.'
-citation: [Shuai Liu <i>et al</i>., <i>Mon.Not.Roy.Astron.Soc.</i>533 (2024) 2, 2262-2281.](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=2311.05393)
+citation: Shuai Liu <i>et al</i>., <i>Mon.Not.Roy.Astron.Soc.</i>533 (2024) 2, 2262-2281.
 
 ---
 
