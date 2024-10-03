@@ -11,4 +11,4 @@ paperurl: 'https://arxiv.org/pdf/2110.05224'
 citation: 'Liang-Gui Zhu, Ling-Hua Xie, Yi-Ming Hu and Shuai Liu <i>et al.</i> &quot;Constraining the Hubble constant to a precision of about 1% using  multi-band dark standard siren detections&quot; <i>Sci.China Phys.Mech.Astron</i>. 65 (2022) 5, 259811'
 ---
 
-In this work, we study the potential capacity of LISA/TianQin, as well as the network of TianQin+ET  to constrain the Hubble constant.
+In this work, we investigate the potential capability of LISA and TianQin, as well as the TianQin+ET network, to constrain the Hubble constant.
