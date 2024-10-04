@@ -1,5 +1,5 @@
 ---
-title: "Constraining the Hubble constant to a precision of about 1% using  multi-band dark standard siren detections"
+title: "Constraining the Hubble constant to a precision of about 1% using multi-band dark standard siren detections"
 collection: publications
 category: manuscripts
 permalink: /publication/constraining-the-hubble-constant-to-a-precision-of-about-1percent-using-multi-band-dark-standard-siren-detections
