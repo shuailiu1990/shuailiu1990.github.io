@@ -22,4 +22,6 @@ Final score = classroom performance + homework + test
 
 [第06讲 机械能守恒定律能量守恒定律](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第06讲机械能守恒定律能量守恒定律.pdf)
 
+[第07讲 动量定理动量守恒定律](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第07讲动量定理动量守恒定律.pdf)
+
 ## [普通高中物理课程标准2017年版2020年修订](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/普通高中物理课程标准2017年版2020年修订.pdf)
