@@ -24,4 +24,6 @@ Final score = classroom performance + homework + test
 
 [第07讲 动量定理动量守恒定律](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第07讲动量定理动量守恒定律.pdf)
 
+[第08讲 电场带电粒子在电场中的运动](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第08讲电场带电粒子在电场中的运动.pdf)
+
 ## [普通高中物理课程标准2017年版2020年修订](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/普通高中物理课程标准2017年版2020年修订.pdf)
