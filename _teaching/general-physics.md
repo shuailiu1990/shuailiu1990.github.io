@@ -37,3 +37,5 @@ Chapter 11: exercises (P299-P300) 11.7, 11.9, 11.11, 11.13 and 11.15 in the text
 [第5章第三次课热力学基础](https://shuailiu1990.github.io/files/general-physics-ii/第5章第三次课热力学基础.pdf)
 
 [第5章第四次课热力学基础](https://shuailiu1990.github.io/files/general-physics-ii/第5章第四次课热力学基础.pdf)
+
+[第9章第机械振动之简谐振动](https://shuailiu1990.github.io/files/general-physics-ii/第9章第机械振动之简谐振动.pdf)
