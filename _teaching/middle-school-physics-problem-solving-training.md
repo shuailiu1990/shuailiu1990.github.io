@@ -26,4 +26,6 @@ Final score = classroom performance + homework + test
 
 [第08讲 电场带电粒子在电场中的运动](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第08讲电场带电粒子在电场中的运动.pdf)
 
+[第09讲 磁场带电粒子在磁场中的运动](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第09讲磁场带电粒子在磁场中的运动.pdf)
+
 ## [普通高中物理课程标准2017年版2020年修订](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/普通高中物理课程标准2017年版2020年修订.pdf)
