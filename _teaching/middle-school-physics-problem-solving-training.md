@@ -28,4 +28,6 @@ Final score = classroom performance + homework + test
 
 [第09讲 磁场带电粒子在磁场中的运动](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第09讲磁场带电粒子在磁场中的运动.pdf)
 
+[第10讲 恒定电流与交变电流](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第10讲恒定电流与交变电流.pdf)
+
 ## [普通高中物理课程标准2017年版2020年修订](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/普通高中物理课程标准2017年版2020年修订.pdf)
