@@ -43,3 +43,5 @@ Chapter 11: exercises (P299-P300) 11.7, 11.9, 11.11, 11.13 and 11.15 in the text
 [第10章机械波](https://shuailiu1990.github.io/files/general-physics-ii/第10章机械波.pdf)
 
 [第11章光的干涉第一次课](https://shuailiu1990.github.io/files/general-physics-ii/第11章光的干涉第一次课.pdf)
+
+[第11章光的干涉第二次课](https://shuailiu1990.github.io/files/general-physics-ii/第11章光的干涉第二次课.pdf)
