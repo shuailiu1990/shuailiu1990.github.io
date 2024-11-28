@@ -32,5 +32,6 @@ Final score = classroom performance + homework + test
 
 [第11讲 电磁感应](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第11讲电磁感应.pdf)
 
+[第12讲 机械振动与机械波](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第12讲机械振动与机械波.pdf)
 
 ## [普通高中物理课程标准2017年版2020年修订](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/普通高中物理课程标准2017年版2020年修订.pdf)
