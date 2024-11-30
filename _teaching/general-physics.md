@@ -45,3 +45,5 @@ Chapter 11: exercises (P299-P300) 11.7, 11.9, 11.11, 11.13 and 11.15 in the text
 [第11章第一次课光的干涉](https://shuailiu1990.github.io/files/general-physics-ii/第11章第一次课光的干涉.pdf)
 
 [第11章第二次课光的干涉](https://shuailiu1990.github.io/files/general-physics-ii/第11章第二次课光的干涉.pdf)
+
+[第11章第三次课光的干涉](https://shuailiu1990.github.io/files/general-physics-ii/第11章第三次课光的干涉.pdf)
