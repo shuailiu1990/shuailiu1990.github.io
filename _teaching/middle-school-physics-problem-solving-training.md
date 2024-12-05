@@ -34,4 +34,7 @@ Final score = classroom performance + homework + final exam
 
 [第12讲 机械振动与机械波](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第12讲机械振动与机械波.pdf)
 
+[第13讲 光学电磁波](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第13讲光学电磁波.pdf)
+
+
 ## [普通高中物理课程标准2017年版2020年修订](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/普通高中物理课程标准2017年版2020年修订.pdf)
