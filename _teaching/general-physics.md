@@ -20,6 +20,8 @@ Chapter 5: exercises (P116-P118) 5.11, 5.12, 5.13, 5.14 and 5.15 in the textbook
 
 Chapter 11: exercises (P299-P300) 11.7, 11.9, 11.11, 11.13 and 11.15 in the textbook.
 
+Chapter 12: exercises (P321) 12.6, 12.7, 12.10, and 12.13 in the textbook.
+
 ### Slides
 
 [第4章第一次课气体动理论](https://shuailiu1990.github.io/files/general-physics-ii/第4章第一次课气体动理论.pdf)
