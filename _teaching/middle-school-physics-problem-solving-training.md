@@ -14,7 +14,7 @@ Homework: 收集广东省近3年物理高考题，并且分为不同的专题(wo
 
 Final score = classroom performance + homework + final exam
 
-## Slides
+## Slide
 
 [第04讲 万有引力定律及其应用](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第04讲万有引力定律及其应用.pdf)
 
@@ -36,5 +36,8 @@ Final score = classroom performance + homework + final exam
 
 [第13讲 光学电磁波](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第13讲光学电磁波.pdf)
 
+[第14讲 热学](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第14讲热学.pdf)
+
+[第13讲 近代物理](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第15讲近代物理.pdf)
 
 ## [普通高中物理课程标准2017年版2020年修订](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/普通高中物理课程标准2017年版2020年修订.pdf)

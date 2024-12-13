@@ -22,7 +22,7 @@ Chapter 11: exercises (P299-P300) 11.7, 11.9, 11.11, 11.13 and 11.15 in the text
 
 Chapter 12: exercises (P321) 12.6, 12.7, 12.10, and 12.13 in the textbook.
 
-### Slides
+### Slide
 
 [第4章第一次课气体动理论](https://shuailiu1990.github.io/files/general-physics-ii/第4章第一次课气体动理论.pdf)
 
@@ -51,3 +51,5 @@ Chapter 12: exercises (P321) 12.6, 12.7, 12.10, and 12.13 in the textbook.
 [第11章第三次课光的干涉](https://shuailiu1990.github.io/files/general-physics-ii/第11章第三次课光的干涉.pdf)
 
 [第12章第一次课光的衍射](https://shuailiu1990.github.io/files/general-physics-ii/第12章第一次课光的衍射.pdf)
+
+[第12章第二次课光的衍射](https://shuailiu1990.github.io/files/general-physics-ii/第12章第二次课光的衍射.pdf)
