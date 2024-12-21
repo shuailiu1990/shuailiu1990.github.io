@@ -14,13 +14,13 @@ This course is designed for undergraduate students who are not studying physics.
 
 ### Homework
 
-Chapter 4: exercises (P88-P89) 4.9, 4.12, 4.13, 4.14 and 4.16 in the textbook.
+Chapter 4: exercise (P88-P89) 4.9, 4.12, 4.13, 4.14 and 4.16 in the textbook.
 
-Chapter 5: exercises (P116-P118) 5.11, 5.12, 5.13, 5.14 and 5.15 in the textbook.
+Chapter 5: exercise (P116-P118) 5.11, 5.12, 5.13, 5.14 and 5.15 in the textbook.
 
-Chapter 11: exercises (P299-P300) 11.7, 11.9, 11.11, 11.13 and 11.15 in the textbook.
+Chapter 11: exercise (P299-P300) 11.7, 11.9, 11.11, 11.13 and 11.15 in the textbook.
 
-Chapter 12: exercises (P321) 12.6, 12.7, 12.10, and 12.13 in the textbook.
+Chapter 12: exercise (P321) 12.6, 12.7, 12.10, and 12.13 in the textbook.
 
 ### Slide
 
