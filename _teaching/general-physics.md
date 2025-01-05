@@ -10,6 +10,10 @@ location: "Zhaoqing, China"
 
 This course is designed for undergraduate students who are not studying physics. There are two parts, i.e., General Physics I and General Physics II.
 
+The textbook is 
+
+The reference book is 东南大学等七所工科院校 编，马文蔚，周雨青，解希顺 改编，《物理学》，高等教育出版社 
+
 ## General Physics II
 
 ### Homework
