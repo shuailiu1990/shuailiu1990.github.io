@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/middle-school-physics-problem-solving-training
 venue: "Physics Department, Zhaoqing University"
-date:  2023-01-01 
+date: 2023-01-01
 location: "Zhaoqing, China"
 ---
 
@@ -12,7 +12,7 @@ This course is designed for undergraduate students who are studying physics.
 
 Homework: 收集广东省近3年物理高考题，并且分为不同的专题(word)
 
-Final score = classroom performance + homework + final exam
+Final score = class performance + homework + final exam
 
 ## Slide
 
