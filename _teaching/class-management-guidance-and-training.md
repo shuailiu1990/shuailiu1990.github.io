@@ -26,4 +26,4 @@ Regular grade = class performance score + attendance score + homework grade. For
 
 ## Slide
 
-<!--[第4章第一次课气体动理论](https://shuailiu1990.github.io/files/general-physics-ii/第4章第一次课气体动理论.pdf)-->
+[绪论](https://shuailiu1990.github.io/files/class-management-guidance-and-training/绪论.pdf)
