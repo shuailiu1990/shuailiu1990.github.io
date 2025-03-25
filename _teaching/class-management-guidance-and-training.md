@@ -20,10 +20,6 @@ Final grade = regular grade (40%) + final assignment grade (60%),
 
 Regular grade = class performance score + attendance score + homework grade. For the students whose classroom performance is excellent, add 5 points to the class performance score. For students with no attendance, subtract 5 points from the attendance score.
 
-## Homework
-
-## Final assignment
-
 ## Slide
 
 [绪论](https://shuailiu1990.github.io/files/class-management-guidance-and-training/绪论.pdf)
