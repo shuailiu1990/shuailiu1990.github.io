@@ -33,3 +33,5 @@ Regular grade = class performance score + attendance score + homework grade. For
 [第四章班级组织建设](https://shuailiu1990.github.io/files/class-management-guidance-and-training/第四章班级组织建设.pdf)
 
 [第五章班级日常管理](https://shuailiu1990.github.io/files/class-management-guidance-and-training/第五章班级日常管理.pdf)
+
+[第六章班级活动管理](https://shuailiu1990.github.io/files/class-management-guidance-and-training/第六章班级活动管理.pdf)
