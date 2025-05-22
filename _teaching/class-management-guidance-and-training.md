@@ -41,3 +41,5 @@ Regular grade = class performance score + attendance score + homework grade. For
 [第八章班级突发事件的管理](https://shuailiu1990.github.io/files/class-management-guidance-and-training/第八章班级突发事件的管理.pdf)
 
 [第九章班级管理中的家校合作模式](https://shuailiu1990.github.io/files/class-management-guidance-and-training/第九章班级管理中的家校合作模式.pdf)
+
+[第十章班级管理的评价](https://shuailiu1990.github.io/files/class-management-guidance-and-training/第十章班级管理的评价.pdf)
