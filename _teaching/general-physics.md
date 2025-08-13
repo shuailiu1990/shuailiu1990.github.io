@@ -22,6 +22,8 @@ Final grade = homework grade (40%) + final exam grade (60%)
 
 ### Homework
 
+Chapter 1: exercise (P16) 1.9，1.10，1.12，1.13，1.14 and 1.16 in the textbook.
+
 ## General Physics II
 
 ### Grade
