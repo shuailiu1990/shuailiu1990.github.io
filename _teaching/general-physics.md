@@ -14,6 +14,14 @@ The textbook: 《大学物理》程绪信主编，高等教育出版社
 
 The reference book: 《物理学》东南大学等七所工科院校 编，马文蔚，周雨青，解希顺 改编，高等教育出版社
 
+## General Physics I
+
+### Grade
+
+Final grade = homework grade (40%) + final exam grade (60%)
+
+### Homework
+
 ## General Physics II
 
 ### Grade
