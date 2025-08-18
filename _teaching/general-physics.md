@@ -22,7 +22,7 @@ Final grade = homework grade (40%) + final exam grade (60%)
 
 ### Homework
 
-Chapter 1: exercise (P16) 1.9，1.10，1.12，1.13，1.14 and 1.16 in the textbook.
+Chapter 1: exercise (P16) 1.9, 1.10, 1.12, 1.13, 1.14 and 1.16 in the textbook.
 
 Chapter 2: exercise (P45-P46) 2.8, 2.10, 2.15, 2.16, 2.18 and 2.20 in the textbook.
 
