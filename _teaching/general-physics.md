@@ -28,6 +28,8 @@ Chapter 2: exercise (P45-P46) 2.8, 2.10, 2.15, 2.16, 2.18 and 2.20 in the textbo
 
 Chapter 6: exercise (P164-P165) 6.9, 6.10, 6.11, 6.12 and 6.18 in the textbook.
 
+Chapter 7: exercise (P204-P206) 7.8, 7.10, 7.11 and 7.13 in the textbook.
+
 ## General Physics II
 
 ### Grade
