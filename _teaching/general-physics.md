@@ -18,7 +18,7 @@ The reference book: 《物理学》东南大学等七所工科院校编，马文
 
 ### Grade
 
-Final grade = homework grade (40%) + final exam grade (60%)
+Final grade = regular homework grade (40%) + final exam grade (60%). The final grade will take class performance and attendance into account.
 
 ### Homework
 
@@ -34,7 +34,7 @@ Chapter 7: exercise (P204-P206) 7.8, 7.10, 7.11 and 7.13 in the textbook.
 
 ### Grade
 
-Final grade = homework grade (40%) + final exam grade (60%)
+Final grade = regular homework grade (40%) + final exam grade (60%). The final grade will take class performance and attendance into account.
 
 ### Homework
 

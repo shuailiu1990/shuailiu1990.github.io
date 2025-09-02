@@ -12,7 +12,7 @@ This course is designed for undergraduate students who are studying physics.
 
 Homework: 收集广东省近5年物理高考题，并且分为不同的专题，整理在Word中
 
-Final score = class performance + homework + final exam
+Final grade = final assessment grade (60%)
 
 ## Slide
 
