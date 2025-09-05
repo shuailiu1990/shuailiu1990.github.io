@@ -30,6 +30,10 @@ Chapter 6: exercise (P164-P165) 6.9, 6.10, 6.11, 6.12 and 6.18 in the textbook.
 
 Chapter 7: exercise (P204-P206) 7.8, 7.10, 7.11 and 7.13 in the textbook.
 
+### Slide
+
+[第1章第一次课机械运动的描述](https://shuailiu1990.github.io/files/general-physics-i/第1章第一次课机械运动的描述.pdf)
+
 ## General Physics II
 
 ### Grade
