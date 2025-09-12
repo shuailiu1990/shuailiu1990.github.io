@@ -18,6 +18,8 @@ Final grade = final assessment grade (60%)
 
 [第01讲 力与物体的平衡](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第01讲力与物体的平衡.pdf)
 
+[第02讲 力与直线运动](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第02讲力与直线运动.pdf)
+
 [第04讲 万有引力定律及其应用](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第04讲万有引力定律及其应用.pdf)
 
 [第05讲 功与功率功能关系](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第05讲功与功率功能关系.pdf)
