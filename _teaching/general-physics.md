@@ -36,6 +36,8 @@ Chapter 7: exercise (P204-P206) 7.8, 7.10, 7.11 and 7.13 in the textbook.
 
 [第1章第二次课机械运动的描述](https://shuailiu1990.github.io/files/general-physics-i/第1章第二次课机械运动的描述.pdf)
 
+[第1章第三次课机械运动的描述](https://shuailiu1990.github.io/files/general-physics-i/第1章第三次课机械运动的描述.pdf)
+
 ## General Physics II
 
 ### Grade
