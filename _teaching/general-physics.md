@@ -30,6 +30,8 @@ Chapter 6: exercise (P164-P165) 6.9, 6.10, 6.11, 6.12 and 6.18 in the textbook.
 
 Chapter 7: exercise (P204-P206) 7.8, 7.10, 7.11 and 7.13 in the textbook.
 
+所有作业题全对为A+，错1题为A，错2题为A-，以此类推。
+
 ### Slide
 
 [第1章第一次课机械运动的描述](https://shuailiu1990.github.io/files/general-physics-i/第1章第一次课机械运动的描述.pdf)
@@ -53,6 +55,8 @@ Chapter 5: exercise (P116-P118) 5.11, 5.12, 5.13, 5.14 and 5.15 in the textbook.
 Chapter 11: exercise (P299-P300) 11.7, 11.9, 11.11, 11.13 and 11.15 in the textbook.
 
 Chapter 12: exercise (P321) 12.6, 12.7, 12.10, and 12.13 in the textbook.
+
+所有作业题全对为A+，错1题为A，错2题为A-，以此类推。
 
 ### Slide
 
