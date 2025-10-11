@@ -42,6 +42,8 @@ Chapter 7: exercise (P204-P206) 7.8, 7.10, 7.11 and 7.13 in the textbook.
 
 [第2章第一次课质点动力学](https://shuailiu1990.github.io/files/general-physics-i/第2章第一次课质点动力学.pdf)
 
+[第2章第二次课质点动力学](https://shuailiu1990.github.io/files/general-physics-i/第2章第二次课质点动力学.pdf)
+
 ## General Physics II
 
 ### Grade
