@@ -9,7 +9,7 @@ redirect_from:
 
 I am a physicist and astronomer. My research focuses on the formation and evolution of gravitational wave (GW) sources, particularly stellar-mass and intermediate-mass black holes, as well as on the detection of their gravitational waves using both ground-based GW detectors (e.g., [LIGO](https://www.ligo.caltech.edu/)) and space-borne GW detectors (e.g., [LISA](https://www.esa.int/Science_Exploration/Space_Science/LISA/Capturing_the_ripples_of_spacetime_LISA_gets_go-ahead), [TianQin](https://baike.baidu.com/item/%E5%A4%A9%E7%90%B4%E8%AE%A1%E5%88%92?fromModule=lemma_search-box) and [Taiji](https://baike.baidu.com/item/%E5%A4%AA%E6%9E%81%E8%AE%A1%E5%88%92/19393286?fr=ge_ala)). I am also interested in holographic superconductors studied via the AdS/CFT correspondence, with a focus on Josephson junctions. My publications, awards and other professional activities are listed on my [ORCID](https://orcid.org/0000-0002-1197-2054) profile.
 
-In terms of teaching, I instruct courses such as Middle School Physics Problem-Solving Training (中学物理解题训练), Class Management Guidance and Training (班级管理指导与训练), and General Physics (大学物理). I enjoy discussing physics with students both inside and outside the classroom.
+In terms of teaching, I instruct courses such as _Middle School Physics Problem-Solving Training_ (中学物理解题训练), _Class Management Guidance and Training_ (班级管理指导与训练), and _General Physics_ (大学物理). I enjoy discussing physics with students both inside and outside the classroom.
 
 Beyond academics, I have a wide range of hobbies, including watching films, listening to music, reading, hiking, and collecting wristwatches. I welcome anyone with similar interests to contact me via email.
 
