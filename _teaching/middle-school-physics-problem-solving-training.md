@@ -34,16 +34,16 @@ Final grade = final assessment grade (60%)
 
 [第09讲 磁场带电粒子在磁场中的运动](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第09讲磁场带电粒子在磁场中的运动.pdf)
 
-[第10讲 恒定电流与交变电流](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第10讲恒定电流与交变电流.pdf)
+<!-- [第10讲 恒定电流与交变电流](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第10讲恒定电流与交变电流.pdf) -->
 
-[第11讲 电磁感应](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第11讲电磁感应.pdf)
+<!-- [第11讲 电磁感应](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第11讲电磁感应.pdf) -->
 
-[第12讲 机械振动与机械波](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第12讲机械振动与机械波.pdf)
+<!-- [第12讲 机械振动与机械波](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第12讲机械振动与机械波.pdf) -->
 
-[第13讲 光学电磁波](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第13讲光学电磁波.pdf)
+<!-- [第13讲 光学电磁波](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第13讲光学电磁波.pdf) -->
 
-[第14讲 热学](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第14讲热学.pdf)
+<!-- [第14讲 热学](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第14讲热学.pdf) -->
 
-[第13讲 近代物理](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第15讲近代物理.pdf)
+<!-- [第13讲 近代物理](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第15讲近代物理.pdf) -->
 
 ## [普通高中物理课程标准2017年版2020年修订](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/普通高中物理课程标准2017年版2020年修订.pdf)
