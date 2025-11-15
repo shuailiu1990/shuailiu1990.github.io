@@ -52,6 +52,8 @@ Chapter 7: exercise (P204-P206) 7.8, 7.10, 7.11 and 7.13 in the textbook.
 
 [第6章第三次课静电场](https://shuailiu1990.github.io/files/general-physics-i/第6章第三次课静电场.pdf)
 
+[第7章第一次课稳恒磁场](https://shuailiu1990.github.io/files/general-physics-i/第7章第一次课稳恒磁场.pdf)
+
 ## General Physics II
 
 ### Grade
