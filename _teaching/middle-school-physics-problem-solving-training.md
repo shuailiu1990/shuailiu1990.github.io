@@ -42,7 +42,7 @@ Final grade = final assessment grade (60%)
 
 [第13讲 机械振动与机械波](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第13讲机械振动与机械波.pdf)
 
-<!-- [第13讲 光学电磁波](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第13讲光学电磁波.pdf) -->
+[第14讲 热学](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第14讲热学.pdf)
 
 <!-- [第14讲 热学](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第14讲热学.pdf) -->
 
