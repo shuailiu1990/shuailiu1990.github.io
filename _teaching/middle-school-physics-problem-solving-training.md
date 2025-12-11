@@ -10,7 +10,7 @@ location: "Zhaoqing, China"
 
 This course is designed for undergraduate students who are studying physics.
 
-Homework: 收集广东省近3年物理高考题，并且分为不同的专题，整理在Word中
+Homework: 收集广东省近3年物理高考题，根据上课的PPT分为对应的专题，整理在Word中。Word材料中要有具有链接的目录，并且每一个题的前面要有题的年份。
 
 Final grade = final assessment grade (60%)
 
