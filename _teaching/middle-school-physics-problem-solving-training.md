@@ -44,8 +44,8 @@ Final grade = final assessment grade (60%)
 
 [第14讲 热学](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第14讲热学.pdf)
 
-<!-- [第14讲 热学](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第14讲热学.pdf) -->
+[第15讲 光学](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第15讲光学.pdf)
 
-<!-- [第13讲 近代物理](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第15讲近代物理.pdf) -->
+[第16讲 近代物理](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/第16讲近代物理.pdf)
 
 ## [普通高中物理课程标准2017年版2020年修订](https://shuailiu1990.github.io/files/middle-school-physics-problem-solving-training/普通高中物理课程标准2017年版2020年修订.pdf)
